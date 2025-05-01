@@ -108,19 +108,19 @@
   - Tirem fotos em diferentes ângulos da impressionante Árvore da Vida
   - Busquem ajuda de um Disney PhotoPass para fotos de família profissionais
 
-- [ ] **16:35 - África - Jantar no Tusker House Restaurant**
-  - Cheguem com 15 minutos de antecedência para confirmar a reserva
+- [ ] **16:45 - África - Jantar no Tusker House Restaurant**
+  - Cheguem com 5 minutos de antecedência para confirmar a reserva
   - Este é um restaurante com personagens muito popular, reservas são essenciais
   - Aproveitem o jantar com Mickey, Donald, Daisy e outros personagens em trajes de safári
   - A refeição dura aproximadamente 1 hora a 1 hora e meia
   - Perfeito para encerrar o dia com interações especiais para Lívia
 
-- [ ] **19:00 - Discovery Island - Tree of Life Awakenings (se possível)**
+- [ ] **18:00 - Discovery Island - Tree of Life Awakenings (se possível)**
   - Ao sair do restaurante, tentem observar o espetáculo de projeções na Árvore da Vida
   - As projeções começam ao anoitecer e ocorrem a cada 10 minutos
-  - Como terá jantar às 16:50, poderão ficar no parque após o horário de fechamento
+  - Como terá jantar às 16:45, poderão ficar no parque após o horário de fechamento
 
-- [ ] **19:15 - Pandora - Bioluminescência e Flight of Passage (se possível)**
+- [ ] **18:15 - Pandora - Bioluminescência e Flight of Passage (se possível)**
   - Passem por Pandora para ver os efeitos luminosos noturnos
   - Uma experiência completamente diferente da visita diurna e mágica para Lívia
   - Se o tempo permitir e a fila estiver aceitável, considerar fazer novamente o Flight of Passage
