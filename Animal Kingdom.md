@@ -3,6 +3,10 @@
 - [VPD Roteiro](./Animal%20Kingdom/2024-09-Roteiro-Vai-Pra-Disney_-Disneys-Animal-Kingdom.pdf)
 - [Mapa](./Animal%20Kingdom/06-2023-mapa-animal-kingdom.pdf)
 
+## Reservas
+
+- **Tusker House Restaurant**: 22/05 às 16h55
+
 ## Lembretes Importantes
 
 - **Reserva do Tusker House**: Confirmar a reserva pelo aplicativo ou telefone um dia antes (21/05)
