@@ -13,6 +13,7 @@
 ## Lembretes Importantes
 
 - **Aniversário da esposa (29/05)**: Peça um *Celebration Button* no Guest Relations e mencione no Garden Grill para sobremesa especial
+- Assim que jantar, correr para pegar lugar para Luminous às 20:30
 
 ## Roteiro
 
