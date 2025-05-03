@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb1b6e64735e2070",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agenda.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Agenda"
-            }
-          },
-          {
             "id": "24babbbaf1d6d4a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Islands of Adventure.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Islands of Adventure"
+              "title": "README"
             }
           }
         ]
@@ -108,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -126,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -162,12 +150,12 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,23 +168,26 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "bb1b6e64735e2070",
+  "active": "24babbbaf1d6d4a0",
   "lastOpenFiles": [
-    "Islands of Adventure/roteiro-vpd.md",
+    "Universal Studios/2025-04-Roteiro-Vai-Pra-Disney_-Universal-Studios.pdf",
+    "Universal Studios/2025-04-Roteiro-Vai-Pra-Disney_-Universal-Studios.pdf.crdownload",
+    "Universal Studios/universal-studios-florida-park-map-2025.pdf",
+    "Universal Studios/universal-studios-florida-park-map-2025.pdf.crdownload",
+    "Universal Studios",
+    "Nueva carpeta",
+    "Universal Studios.md",
+    "Universal Studios Florida.md",
     "Islands of Adventure.md",
     "Islands of Adventure/2023-03-Roteiro-VPD-Orlando_-Islands-of-Adventure.pdf",
+    "README.md",
+    "Islands of Adventure/roteiro-vpd.md",
     "Islands of Adventure/2023-03-Roteiro-VPD-Orlando_-Islands-of-Adventure.pdf.crdownload",
     "Islands of Adventure/06-2023-mapa-islands-of-adventure.pdf",
     "Islands of Adventure/06-2023-mapa-islands-of-adventure.pdf.crdownload",
     "Islands of Adventure",
-    "Nueva carpeta",
-    "Agenda.md",
     "Epcot.md",
     "Magic Kingdom.md",
-    "Magic Kingdom/2025-04-Roteiro-VPD-Orlando-Magic-Kingdom-criancas-1.pdf",
-    "Magic Kingdom/2025-04-Roteiro-VPD-Orlando-Magic-Kingdom-criancas-1.pdf.crdownload",
-    "Magic Kingdom/2025-04-Roteiro-VPD-Orlando_-Magic-Kingdom-adultos.pdf",
-    "Magic Kingdom/2025-04-Roteiro-VPD-Orlando_-Magic-Kingdom-adultos.pdf.crdownload",
     "Hollywood Studios.md",
     "Welcome.md",
     "Animal Kingdom.md",
