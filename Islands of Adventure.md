@@ -68,6 +68,8 @@
 - Frog Choir
 - Triwizard Spirit Rally
 - Storm Force Accelatron
+- Arcade
+- Poseidon’s Fury
 
 ## Lugares para comer
 
@@ -81,77 +83,89 @@
 - Em Hogsmeade, ver as lojas
 - Levar capa de chuva para o Jurassic Park River Adventure, Dudley Do-Right’s Ripsaw Falls e Popeye & Bluto’s Bilge-Rat Barges
 - Verificar horários de shows ao chegar no parque pois podem mudar
+- Verificar horário de fechamento do parque destino do Hogwarts Express (Universal Studios Florida), pois tem que ser feito antes do fechamento do parque
+- Na hora do almoço, ver filas da área Hogsmeade, Hagrid's Motorbike Adventure pode estar com fila pequena
+- Fazer Hagrid's Motorbike Adventure também a noite, se possível
+- Levar mochila pequena para não ter que usar os lockers pagos
 
 ## Roteiro
 
-- [ ] **8:00 - Entrada - Chegada ao parque**
-  - Chegar antes da abertura para entrar entre os primeiros visitantes
-  - Fazer o movimento anti-horário, seguindo para a direita após os portões
+- [ ] **8:00 - Saída do hotel (Celebration Suites)**
+  - Tempo estimado de deslocamento de carro: 30 minutos
 
-- [ ] **8:30 - Hogsmeade - Hagrid's Magical Creatures Motorbike Adventure**
-  - Ir direto para esta atração, que é uma das mais populares do parque
-  - As filas aumentam rapidamente durante o dia
+- [ ] **8:30 - Entrada - Chegada ao parque**
+  - Chegar 30 minutos antes da abertura para estar entre os primeiros visitantes
+  - Fazer o movimento horário, seguindo para a esquerda após os portões para chegar primeiro à área da Marvel
 
-- [ ] **9:30 - Hogsmeade - Harry Potter and the Forbidden Journey**
-  - Experiência dentro do Castelo de Hogwarts
-  - Aproveitar para admirar os detalhes do castelo durante a fila
-
-- [ ] **10:15 - Hogsmeade - Flight of the Hippogriff**
-  - Montanha-russa mais leve, adequada para toda a família
-  - Dá para ver a cabana do Hagrid durante o percurso
-
-- [ ] **10:45 - Hogsmeade - Explorar as lojas e comprar varinha no Ollivanders**
-  - Comprar varinha com etiqueta dourada (interativa)
-  - Visitar as lojas temáticas de Hogsmeade
-
-- [ ] **11:30 - Hogsmeade - Experimentar a cerveja amanteigada (Frozen)**
-  - Pausa para bebida temática antes do almoço
-
-- [ ] **12:00 - Hogsmeade - Almoço no Three Broomsticks (Três Vassouras)**
-  - Local temático com opções boas e com preço razoável
-
-- [ ] **13:00 - Jurassic Park - Jurassic World VelociCoaster**
-  - Montanha-russa temática dos velociraptors
-  - Utilizar fila de single rider se disponível
-
-- [ ] **14:00 - Jurassic Park - Raptor Encounter**
-  - Interação e fotos com dinossauros animatrônicos
-  - Experiência interativa divertida
-
-- [ ] **14:30 - Jurassic Park - Jurassic Park River Adventure**
-  - Levar capa de chuva, pois molha bastante
-  - Evitar em dias frios
-
-- [ ] **15:15 - Skull Island - Skull Island: Reign of Kong**
-  - Simulador imersivo do King Kong
-
-- [ ] **16:00 - Toon Lagoon - Dudley Do-Right's Ripsaw Falls**
-  - Levar capa de chuva ou troca de roupa, pois molha muito
-  - Evitar em dias frios
-
-- [ ] **16:45 - Toon Lagoon - Popeye & Bluto's Bilge-Rat Barges**
-  - Levar capa de chuva ou troca de roupa, pois molha muito
-  - Evitar em dias frios
-
-- [ ] **17:30 - Marvel Super Hero Island - The Amazing Adventures of Spider-Man**
+- [ ] **9:00 - Marvel Super Hero Island - The Amazing Adventures of Spider-Man**
   - Simulador 3D do Homem-Aranha
   - Ficar atento para encontros com personagens da Marvel nesta área
 
-- [ ] **18:15 - Marvel Super Hero Island - The Incredible Hulk Coaster**
+- [ ] **9:45 - Marvel Super Hero Island - The Incredible Hulk Coaster**
   - Montanha-russa radical
   - Utilizar fila de single rider se disponível
+  - Só a Letícia vai, Wiley ficará com medo
 
-- [ ] **19:00 - Marvel Super Hero Island - Doctor Doom's Fearfall**
+- [ ] **10:30 - Marvel Super Hero Island - Doctor Doom's Fearfall**
   - Atração tipo elevador que sobe rapidamente
+  - Só a Letícia vai, Wiley ficará com medo
 
-- [ ] **19:30 - The Lost Continent - Jantar no Mythos Restaurant**
-  - Restaurante premiado com várias opções de refeição
+- [ ] **11:00 - Toon Lagoon - Dudley Do-Right's Ripsaw Falls**
+  - Levar capa de chuva ou troca de roupa, pois molha muito
+  - Evitar em dias frios
 
-- [ ] **20:30 - Hogsmeade - Hogwarts Express**
-  - Fazer o trajeto de ida e volta caso tenha ingresso park-to-park
-  - Experiência diferente nos dois sentidos
+- [ ] **11:45 - Toon Lagoon - Popeye & Bluto's Bilge-Rat Barges**
+  - Levar capa de chuva ou troca de roupa, pois molha muito
+  - Evitar em dias frios
 
-### Observações
-- Horários são aproximados e podem ser ajustados conforme o fluxo de pessoas no dia
-- Em caso de chuva, priorizar atrações cobertas e shows
-- Utilizar os lockers gratuitos disponíveis para guardar pertences nas atrações que não permitem objetos soltos
+- [ ] **12:30 - Toon Lagoon/Skull Island - Almoço**
+  - Ver se dá pra almoçar no restaurante do Jurassic Park (The Three Broomsticks)
+  - Opções de lanches rápidos disponíveis nesta área
+
+- [ ] **13:15 - Skull Island - Skull Island: Reign of Kong**
+  - Simulador imersivo do King Kong
+
+- [ ] **14:00 - Jurassic Park - Jurassic World VelociCoaster**
+  - Montanha-russa temática dos velociraptors
+  - Utilizar fila de single rider se disponível
+  - Só a Letícia vai, Wiley ficará com medo
+
+- [ ] **15:00 - Jurassic Park - Raptor Encounter**
+  - Interação e fotos com dinossauros animatrônicos
+  - Experiência interativa divertida
+
+- [ ] **15:30 - Jurassic Park - Jurassic Park River Adventure**
+  - Levar capa de chuva, pois molha bastante
+  - Evitar em dias frios
+
+- [ ] **16:15 - Hogsmeade - Hagrid's Magical Creatures Motorbike Adventure**
+  - Uma das atrações mais populares do parque
+  - As filas costumam ser longas mesmo no final do dia
+
+- [ ] **17:15 - Hogsmeade - Harry Potter and the Forbidden Journey**
+  - Experiência dentro do Castelo de Hogwarts
+  - Aproveitar para admirar os detalhes do castelo durante a fila
+
+- [ ] **18:00 - Hogsmeade - Flight of the Hippogriff**
+  - Montanha-russa mais leve, adequada para toda a família
+  - Dá para ver a cabana do Hagrid durante o percurso
+
+- [ ] **18:30 - Seuss Landing - The High In The Sky Seuss Trolley Train Ride (opcional)**
+  - Um passeio de trem pela área do Dr. Seuss
+  - Legal para a Lívia
+
+- [ ] **19:00 - Hogsmeade - Hagrid's Magical Creatures Motorbike Adventure (opcional)**
+  - Se a fila estiver pequena, repetir a atração
+  - Caso contrário, seguir para o jantar
+
+- [ ] **19:30 - Hogsmeade - Experimentar a cerveja amanteigada (Frozen)**
+  - Pausa para bebida temática antes do jantar
+
+- [ ] **19:30 - Hogsmeade - Explorar as lojas e comprar varinha no Ollivanders**
+  - Comprar varinha com etiqueta dourada (interativa)
+  - Visitar as lojas temáticas de Hogsmeade
+
+- [ ] **20:00 - Hogsmeade - Hogwarts Express**
+  - Ir para o Universal Studios Florida
+  - Verificar horário de fechamento do parque
+  - Ir embora para o hotel do Universal Studios Florida
