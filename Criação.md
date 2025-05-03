@@ -2,6 +2,8 @@
 
 Criar roteiro para um dia de visita para o parque <<nome do parque>> no dia <<dia>>
 
+Seguindo apenas o Roteiro em PDF do parque <<nome do parque>> e as suas recomendações.
+
 Seguindo:
 
 - Recomendações do Vai pra Disney no Youtube e Blog

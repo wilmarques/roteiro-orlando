@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "Agenda"
             }
+          },
+          {
+            "id": "24babbbaf1d6d4a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Islands of Adventure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Islands of Adventure"
+            }
           }
         ]
       }
@@ -168,6 +182,13 @@
   },
   "active": "bb1b6e64735e2070",
   "lastOpenFiles": [
+    "Islands of Adventure.md",
+    "Islands of Adventure/2023-03-Roteiro-VPD-Orlando_-Islands-of-Adventure.pdf",
+    "Islands of Adventure/2023-03-Roteiro-VPD-Orlando_-Islands-of-Adventure.pdf.crdownload",
+    "Islands of Adventure/06-2023-mapa-islands-of-adventure.pdf",
+    "Islands of Adventure/06-2023-mapa-islands-of-adventure.pdf.crdownload",
+    "Islands of Adventure",
+    "Nueva carpeta",
     "Agenda.md",
     "Epcot.md",
     "Magic Kingdom.md",
@@ -175,13 +196,7 @@
     "Magic Kingdom/2025-04-Roteiro-VPD-Orlando-Magic-Kingdom-criancas-1.pdf.crdownload",
     "Magic Kingdom/2025-04-Roteiro-VPD-Orlando_-Magic-Kingdom-adultos.pdf",
     "Magic Kingdom/2025-04-Roteiro-VPD-Orlando_-Magic-Kingdom-adultos.pdf.crdownload",
-    "Magic Kingdom/06-2023-mapa-magic-kingdom.pdf",
-    "Magic Kingdom/06-2023-mapa-magic-kingdom.pdf.crdownload",
-    "Magic Kingdom",
     "Hollywood Studios.md",
-    "Hollywood Studios/2025-03-Roteiro-VPD-Orlando_-Disneys-Hollywood-Studios-sem-atracoes-suspensas.pdf",
-    "Hollywood Studios/2025-03-Roteiro-VPD-Orlando_-Disneys-Hollywood-Studios-sem-atracoes-suspensas.pdf.crdownload",
-    "Hollywood Studios/06-2023-mapa-hollywood-studios.pdf",
     "Welcome.md",
     "Animal Kingdom.md",
     "animal-kingdom.md"
