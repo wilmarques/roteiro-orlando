@@ -145,6 +145,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -155,6 +156,8 @@
   },
   "active": "93c2f8b6b1bcbcf2",
   "lastOpenFiles": [
+    "Hollywood Studios.md",
+    "Agenda.md",
     "Animal Kingdom.md"
   ]
 }
