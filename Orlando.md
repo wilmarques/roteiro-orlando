@@ -16,7 +16,7 @@
 | 27/05 | Terça         | Magic Kingdom                                       | Breakfast at The Crystal Palace às 9h25 | Cinderella's Royal Table às 22h |
 | 28/05 | Quarta        | Descanso                                            |                                         |                                 |
 | 29/05 | Quinta        | [Universal Studios](./Universal%20Studios.md)       |                                         |                                 |
-| 30/05 | Sexta         | Epcot                                               |                                         |                                 |
+| 30/05 | Sexta         | [Epic](./Epic.md)                                   |                                         |                                 |
 | 31/05 | Sábado        | Descanso                                            |                                         |                                 |
 | 01/06 | Domingo       | Descanso                                            |                                         |                                 |
 | 02/06 | Segunda       | Space Kennedy                                       |                                         |                                 |
