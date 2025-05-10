@@ -1,4 +1,6 @@
-# Agenda
+# Orlando
+
+## Agenda
 
 | Dia   | Dia da semana | Principal                                           | Café da manhã                           | Jantar                          |
 | ----- | ------------- | --------------------------------------------------- | --------------------------------------- | ------------------------------- |
@@ -19,3 +21,7 @@
 | 01/06 | Domingo       | Descanso                                            |                                         |                                 |
 | 02/06 | Segunda       | Space Kennedy                                       |                                         |                                 |
 | 03/06 | Terça         | Retorno                                             |                                         |                                 |
+
+## Outros itens
+
+- [Seguro Viagem](./Seguro%20Viagem.md)
