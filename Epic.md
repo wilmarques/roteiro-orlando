@@ -5,3 +5,4 @@
 - [Explicação](./Epic/Explicação.md)
 - [Atrações](./Epic/Atrações.md)
 - [Anotações](./Epic/Anotações.md)
+- [Dicas](./Epic/Dicas.md)

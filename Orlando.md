@@ -7,7 +7,7 @@
 | 18/05 | Domingo       | Chegada + Compras                                   |                                         |                                 |
 | 19/05 | Segunda       | [Hollywood Studios](./Hollywood%20Studios.md)       |                                         |                                 |
 | 20/05 | Terça         | [Magic Kingdom](./Magic%20Kingdom.md)               |                                         |                                 |
-| 21/05 | Quarta        | Descanso                                            |                                         |                                 |
+| 21/05 | Quarta        | Hotel                                               |                                         |                                 |
 | 22/05 | Quinta        | [Animal Kingdom](./Animal%20Kingdom.md)             |                                         |                                 |
 | 23/05 | Sexta         | [Epcot](./Epcot.md)                                 |                                         |                                 |
 | 24/05 | Sábado        | Descanso                                            |                                         |                                 |

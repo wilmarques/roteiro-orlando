@@ -1,3 +1,23 @@
-# Anotações
+# Universal Epic Universe: Anotações
 
-
+- Stardust Racers
+  - Wiley não irá
+  - Atinge **100 km/h** e **40 metros de altura**
+- Pegar Power-Up Bands
+  - 45 USD
+- Hiccup’s Wing Gliders
+  - Wiley irá se tempo permitir
+  - Atinge **72 km/h**
+  - Curvas ficando de lado
+  - Wiley ficará com medo
+- Dragon Racer's Rally
+  - Wiley não irá
+  - **20 metros** de altura
+- Monster Unchained
+  - Muito da hora
+  - Lívia não vai
+- Curse of the Werewolf
+  - Wiley não irá
+  - Muitas quedas
+- Harry Potter and the Battle at the Ministry
+  - Lívia pode ficar com medo
