@@ -23,6 +23,7 @@
 
 - Parar em qualquer loja e pegar DOIS bottons gratuitos: um de aniversário e outro de "minha primeira visita"
 - Assim que jantar, correr para pegar lugar para Happily Ever After
+- Verificar horários de shows para o dia 20/05
 
 ## Roteiro
 

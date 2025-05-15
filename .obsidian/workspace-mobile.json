@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Magic Kingdom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Magic Kingdom"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Animal Kingdom.md",
+            "file": "Magic Kingdom.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -156,6 +156,13 @@
   },
   "active": "9e9d6b04469b28b4",
   "lastOpenFiles": [
+    "Magic Kingdom/06-2023-mapa-magic-kingdom.pdf",
+    "Magic Kingdom.md",
+    "Orlando.md",
+    "Epic.md",
+    "Epic/Dicas.md",
+    "Epic/Explicação.md",
+    "Epic/Atrações.md",
     "Islands of Adventure.md",
     "README.md",
     "Universal Studios.md",
