@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orlando.md",
+                "file": "Magic Kingdom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Orlando"
+              "title": "Magic Kingdom"
             }
           }
         ]
@@ -171,8 +171,18 @@
   },
   "active": "8ba93903453dd342",
   "lastOpenFiles": [
-    "Epic/Dicas.md",
     "Orlando.md",
+    "Magic Kingdom/Estratégia.md",
+    "Magic Kingdom/Estratégia Magic Kingdom.md",
+    "Magic Kingdom/Atrações.md",
+    "Magic Kingdom/Explicação.md",
+    "Magic Kingdom/Anotações Wiley.md",
+    "Magic Kingdom/Anotações Letícia.md",
+    "Magic Kingdom/DIcas VPD.md",
+    "Magic Kingdom/2025-04-Roteiro-VPD-Orlando-Magic-Kingdom-criancas.pdf",
+    "Magic Kingdom/Roteiro VPD.md",
+    "Magic Kingdom/Anotações.md",
+    "Epic/Dicas.md",
     "Epic/Dicas (1).md",
     "Epic",
     "Epic.md",
@@ -196,12 +206,6 @@
     "Universal Studios.md",
     "Universal Studios Florida.md",
     "Islands of Adventure.md",
-    "Islands of Adventure/2023-03-Roteiro-VPD-Orlando_-Islands-of-Adventure.pdf",
-    "Islands of Adventure/roteiro-vpd.md",
-    "Epcot.md",
-    "Hollywood Studios.md",
-    "Welcome.md",
-    "Animal Kingdom.md",
-    "animal-kingdom.md"
+    "Islands of Adventure/roteiro-vpd.md"
   ]
 }

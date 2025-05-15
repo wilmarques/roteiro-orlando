@@ -5,26 +5,41 @@ description: 'Geração de roteiro com base em anotações de viagem'
 
 Seu objetivo é criar um roteiro para um dia de visita ao parque {input:parque}.
 
-Pergunta qualquer input não informado
-
 Deve seguir o formato:
 
 ```markdown
-### {Nome da área}
+### {Nome da área 1}
 
-- [ ] **{hora} - {local} - {atividade}**
+- {Curiosidades da área 1}
+
+- [ ] **{hora} - {atividade 1}**
   - {detalhes}
 
-- [ ] **{hora} - {local} - {atividade}**
-
-### {Nome da área}
-
-- [ ] **{hora} - {local} - {atividade}**
+- [ ] **{hora} - {atividade 2}**
   - {detalhes}
 
-- [ ] **{hora} - {local} - {atividade}**
+- Atrações Opcionais
+  - [ ] {opcional 1}
+  - [ ] {opcional 2}
+  - [ ] {opcional 3}
+
+### {Nome da área 2}
+
+- {Curiosidades da área 2}
+
+- [ ] **{hora} - {atividade 3}**
+  - {detalhes}
+
+- [ ] **{hora} - {atividade 4}**
+  - {detalhes}
+
+- Atrações Opcionais
+  - [ ] {opcional 4}
+  - [ ] {opcional 5}
+  - [ ] {opcional 6}
 ```
 
-Utilize as Dicas: {input:dicas} e siga a estratégia: {input:estrategia}.
+Utilize as Dicas: {input:dicas}.
+Siga a estratégia: {input:estrategia}.
 
 Inclua o roteiro no arquivo {input:arquivo}.

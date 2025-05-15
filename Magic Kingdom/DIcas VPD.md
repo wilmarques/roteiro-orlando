@@ -1,0 +1,34 @@
+# Magic Kingdom - Dicas VPD
+
+****–** Entenda o que mudou**
+Muitas coisas mudaram na Disney nos últimos anos e entender essas mudanças é essencial para não chegar nos parques desavisado e perder um tempão precioso tentando se familiarizar com o novo funcionamento de tudo. Resumindo bem, o que você precisa saber é: o tão amado FastPass+, o fura-filas gratuito que a Disney ofereceu por tantos anos, chegou ao fim. Agora em vez disso, tem duas alternativas de fila-rápidas pagas: as **Lightning Lanes Multi Pass e Single Pass**. Entenda melhor [aqui](https://www.vaipradisney.com/blog/genie-chega-fim-disney-anuncia-agendamentos-filas-rapidas-antecedencia/).
+
+****–** Evite programar sua visita ao Magic Kingdom em uma segunda-feira
+**Visto que ele é o principal parque do complexo, a maior parte dos turistas que chega em Orlando no domingo ou na segunda opta por ir ao Magic Kingdom no primeiro dia de suas viagens, ou seja, o parque fica bem mais cheio do que os outros.
+
+******–**** Chegue cedo**
+Essa dica vale para todos os parques, mas é especialmente válida em um parque com tantas atrações. Todo mundo planeja chegar cedo, mas pouca gente realmente chega. Isso significa que este é o melhor horário para aproveitar o parque com filas mais toleráveis. Durante as primeiras horas do dia, você pode ter um rendimento muito melhor e aproveitar várias atrações com menos tempo. Na hora de se programar, sempre vale lembrar: chegar no Magic Kingdom não é tão simples quanto parece. Depois que você passa pelo portal do parque, ainda precisa estacionar o carro, pegar monorail ou barco além de passar pela segurança. O processo também demora pra quem vai de carona, então saia de casa com bastante antecedência pra realmente chegar no parque no horário de abertura.
+
+******–**** Baixe o aplicativo da Disney no seu celular**
+O My Disney Experience, aplicativo da Disney te facilita muito a vida nos parques. Além de poder ver o horário dos shows, você também pode usá-lo para ver o tempo de fila em diferentes atrações, pedir comida pelo celular em vez de enfrentar fila, ver suas fotos e até fazer suas compras na Emporium se quiser. Isso só pra citar algumas funcionalidades. Minha dica é baixar o aplicativo ainda do Brasil e explorá-lo um pouco para já ir se familiarizando. Só toma cuidado pra não ficar o dia inteiro de olho no celular e perder de curtir o parque, hein?
+
+******–**** Tome uma decisão sobre as Lightning Lanes**
+Eu sei que é meio chato ter que “estudar” conceitos e regrinhas novas que a Disney criou antes de visitar os parques, né? Mas se você quiser utilizar esses recursos, é importante entender como eles funcionam e como realmente aproveitá-los antes da visita ao parque. Esses recursos podem ser muito úteis e te poupar muito tempo em fila, mas só se você souber usá-los bem. Você não vai querer gastar estes dólares e não poder tirar proveito, certo? Então se você estiver disposto a pagar pra evitar filas, entenda como o Single Pass e o Multi Pass funcionam. A gente já falou muito sobre isso no blog e [esse é um bom post pra começar](https://www.vaipradisney.com/blog/faq-duvidas-frequentes-sobre-multi-pass-single-pass/) a se inteirar das novidades.
+
+**– A melhor rota no parque**Por muito tempo a gente recomendou que você começasse o seu dia pela Tomorrowland, mas as coisas mudaram, já que a Fantasyland e a Tomorrowland abrem antes para os hóspedes da Disney e de alguns hotéis parceiros. Ou seja, quando os demais visitantes chegam, estas áreas do parque já estão bem cheias.
+
+Por isso, hoje em dia, a melhor estratégia pra você vai depender se você é hóspede da Disney ou não e se pretende comprar os recursos pagos. De forma geral, funciona assim:
+
+**Se você for hóspede da Disney** e tiver acesso a [Early Theme Park Entry](https://www.vaipradisney.com/blog/early-theme-park-entry-disney/), vale chegar uns 30 minutos antes do começo desse tempo adicional para ser um dos primeiros a entrar em uma das principais atrações do parque. Um detalhe importante é que, recentemente, eles mudaram o procedimento da entrada antecipada e, ao invés de ficarem esperando em uma área restrita, agora os hóspedes já podem esperar na fila ou na frente da atração até ela abrir. Por isso, vale chegar uns 45 minutinhos antes do horário de início da Early Entry se quiser aproveitar ainda mais esse benefício. Lembrando que não sabemos se isso é algo definitivo, mas é o que está rolando atualmente.
+
+O melhor mesmo nesse caso é começar pela Seven Dwarfs Mine Train. Com sorte, você consegue ir nessa montanha-russa e ainda entrar na fila do Peter Pan logo no começo do dia. Outra alternativa pode ser a Space Mountain, dependendo do seu interesse. Para quem viaja com crianças ou não curte atrações radicais, vale a pena começar o dia pela atração do Peter Pan, que apesar de simples, logo se torna uma das maiores filas do parque. Depois disso, se quiser, vale encarar a fila de Tron (que não está aberta durante a Early Theme Park Entry) e fazer as outras atrações da Fantasyland e da Tomorrowland com mais calma.
+
+Com o fim da fila virtual na Tiana´s Bayou Adventure, temos mais flexibilidade e podemos escolher o horário para visitá-la. Por enquanto, ela ainda é uma atração mais inconsistente, ou seja, nem sempre abre junto com o parque e quebra com frequência, além de ser uma atração mais longa. Por isso, nesse momento, nossa recomendação é deixá-la para mais tarde mesmo.
+
+Talvez, quando o verão chegar e os dias ficarem ainda mais quentes em Orlando, ela se torne uma atração bem mais concorrida e faça sentido ir diretamente nela assim que o parque abrir. Mas, atualmente, ela ainda não tem uma fila absurda e podemos ir acompanhando pelo aplicativo para decidir qual é o melhor momento de ir para lá.
+
+**Se você não for hóspede da Disney,** ainda assim chegue pelo menos uns 30-40 minutos antes do parque, viu? Confia em mim, isso te ajudará a poupar bastante tempo. Com a Big Thunder fechada até 2026, atualmente, mesmo para quem não é hóspede, ainda vale apostar em atrações populares da Fantasyland (Seven Dwarfs Mine Train e Peter Pan), ou na Space Mountain. Mas isso se você chegar cedo, tá?
+
+Depois, ir na Tiana´s Bayou Adventure pode ser uma boa opção porque já será em um horário mais quente e agradável para uma atração de água. Mesmo que você pegue uma fila média, ao todo já vai ter economizado um bom tempo. Agora, se a fila de Tiana começar a ficar muito grande nos meses de calor em Orlando, nesse caso talvez a melhor opção para quem não é hóspede seja ir para lá assim que o parque abrir.
+
+Se você tiver intenção de comprar o Multi Pass ou o Single Pass, estes recursos podem te poupar muito tempo no Magic Kingdom se você fizer bom uso deles. Entenda mais sobre esse sistema aqui e vá ajustando seu percurso do parque de acordo com seus agendamentos.
