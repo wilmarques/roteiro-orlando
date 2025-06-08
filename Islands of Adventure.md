@@ -91,14 +91,14 @@
 
 ## Roteiro
 
-- [ ] **8:00 - Saída do hotel (Celebration Suites)**
+- [x] **8:00 - Saída do hotel (Celebration Suites)**
   - Tempo estimado de deslocamento de carro: 30 minutos
 
-- [ ] **8:30 - Port of Entry - Chegada ao parque**
+- [x] **8:30 - Port of Entry - Chegada ao parque**
   - Chegar 30 minutos antes da abertura para estar entre os primeiros visitantes
   - Fazer o movimento horário, seguindo para a esquerda após os portões para chegar primeiro à área da Marvel
 
-- [ ] **9:00 - Marvel Super Hero Island - The Amazing Adventures of Spider-Man**
+- [x] **9:00 - Marvel Super Hero Island - The Amazing Adventures of Spider-Man**
   - Simulador 3D do Homem-Aranha
   - Ficar atento para encontros com personagens da Marvel nesta área
 
@@ -107,7 +107,7 @@
   - Utilizar fila de single rider se disponível
   - Só a Letícia vai, Wiley ficará com Lívia
 
-- [ ] **10:30 - Marvel Super Hero Island - Doctor Doom's Fearfall**
+- [x] **10:30 - Marvel Super Hero Island - Doctor Doom's Fearfall**
   - Atração tipo elevador que sobe rapidamente
   - Só a Letícia vai, Wiley ficará com Lívia
 
@@ -115,16 +115,17 @@
   - Levar capa de chuva ou troca de roupa, pois molha muito
   - Evitar em dias frios
 
-- [ ] **11:45 - Toon Lagoon - Popeye & Bluto's Bilge-Rat Barges**
+- [x] **11:45 - Toon Lagoon - Popeye & Bluto's Bilge-Rat Barges**
   - Levar capa de chuva ou troca de roupa, pois molha muito
   - Evitar em dias frios
 
-- [ ] **12:30 - Toon Lagoon/Skull Island - Almoço**
+- [x] **12:30 - Toon Lagoon/Skull Island - Almoço**
   - Ver se dá pra almoçar no Three Broomsticks em Hogsmeade
   - Opções de lanches rápidos disponíveis nesta área
 
 - [ ] **13:15 - Skull Island - Skull Island: Reign of Kong**
   - Simulador imersivo do King Kong
+  - ==Tava quebrado==
 
 - [ ] **14:00 - Jurassic Park - Jurassic World VelociCoaster**
   - Montanha-russa temática dos velociraptors
@@ -138,12 +139,13 @@
 - [ ] **15:30 - Jurassic Park - Jurassic Park River Adventure**
   - Levar capa de chuva, pois molha bastante
   - Evitar em dias frios
+  - Não fomos, pra não ficar com os pés molhados 
 
-- [ ] **16:15 - The Wizarding World of Harry Potter (Hogsmeade) - Hagrid's Magical Creatures Motorbike Adventure**
+- [x] **16:15 - The Wizarding World of Harry Potter (Hogsmeade) - Hagrid's Magical Creatures Motorbike Adventure**
   - Uma das atrações mais populares do parque
   - As filas costumam ser longas mesmo no final do dia
 
-- [ ] **17:15 - The Wizarding World of Harry Potter (Hogsmeade) - Harry Potter and the Forbidden Journey**
+- [x] **17:15 - The Wizarding World of Harry Potter (Hogsmeade) - Harry Potter and the Forbidden Journey**
   - Experiência dentro do Castelo de Hogwarts
   - Aproveitar para admirar os detalhes do castelo durante a fila
 

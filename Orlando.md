@@ -22,6 +22,6 @@
 | 02/06 | Segunda       | Space Kennedy                                       |                                         |                                 |
 | 03/06 | Terça         | Retorno                                             |                                         |                                 |
 
-## Outros itens
+## Outros itensi
 
 - [Seguro Viagem](./Seguro%20Viagem.md)
